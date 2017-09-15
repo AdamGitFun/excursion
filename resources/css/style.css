@@ -2,13 +2,19 @@
   text-align: center;
   background-color: black;
   color: white;
+  font-family: Verdana;
 }
 
 h1 {
-  font-family: Verdana;
+
   font-size: 50px;
   font-weight: bold;
   color: white;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
 }
 
 a {
@@ -19,7 +25,7 @@ a {
 .tagline {
   font-size: 21px;
   color: gray;
-  font-family: Verdana;
+
 }
 
 .copyright {
